@@ -1,0 +1,34 @@
+{
+    "hotels": [
+        {
+            "id": 1,
+            "name": "Hotel Ritz",
+            "description": "Hotel de Lujo",
+            "image": "/img/hotel1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Hotel Elegante",
+            "description": "Una experiencia inolvidable",
+            "image": "/img/hotel2.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Hotel Paradise",
+            "description": "Vacaciones perfectas",
+            "image": "/img/hotel3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Hotel Serenidad",
+            "description": "Descanso y relajación",
+            "image": "/img/hotel4.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Hotel de la Playa",
+            "description": "Frente al mar",
+            "image": "/img/hotel5.jpeg"
+        }
+    ]
+}
